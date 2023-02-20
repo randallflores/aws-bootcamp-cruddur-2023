@@ -6,3 +6,6 @@
   - Enabled Billing alerts
   - Created Budget
   - Created CloudWatch Billing Alerts
+- Installed AWS CLI on GitPod
+  - set env parms
+  - edited and commited .gitpod.yml 
