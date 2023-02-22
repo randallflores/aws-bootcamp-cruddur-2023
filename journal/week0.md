@@ -9,3 +9,5 @@
 - Installed AWS CLI on GitPod
   - set env parms
   - edited and commited .gitpod.yml 
+- created logical diagram
+![Diagram](https://github.com/randallflores/aws-bootcamp-cruddur-2023/blob/main/journal/Crudder%20Logical%20Diagram.png)
