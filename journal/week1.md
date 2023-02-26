@@ -5,3 +5,7 @@
 - watched **create notification feature video**
     - followed along with andrew
     - added notification to OpenAPI file
+    - got the notification page working and made sure notification is highlighted when active.
+
+- Watched **DynamoDB and Prostgres** video
+    - 
