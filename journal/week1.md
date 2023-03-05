@@ -8,4 +8,10 @@
     - got the notification page working and made sure notification is highlighted when active.
 
 - Watched **DynamoDB and Prostgres** video
-    - 
+    - added dynamodb and postgres configs to dockercompose file
+    - followed Andrew and got both DBs running.
+    - Ran dynamodb queries against local dynamodb
+    - tested postgres client in gitpod
+        - installed postgres extension
+        - successfully connected to postgress db running in docker
+        
